@@ -95,6 +95,8 @@ Create a dashboard that visualizes key performance indicators (KPIs) related to 
 ### **Diversity & Inclusion Dashboard**  
 ![Diversity Dashboard](ScreenShots/Diversity_and_Inclusion_pg1.png)
 
+![Diversity Dashboard](ScreenShots/Diversity_and_Inclusion_pg2.png)
+
 ---
 
 ## **Lessons Learned**  
