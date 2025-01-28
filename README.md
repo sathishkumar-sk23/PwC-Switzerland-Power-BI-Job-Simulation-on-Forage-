@@ -90,10 +90,10 @@ Create a dashboard that visualizes key performance indicators (KPIs) related to 
 ![Call Center Dashboard](ScreenShots/Call_Centre_Trends.png)
 
 ### **Customer Retention Dashboard**  
-![Customer Retention Dashboard](#) *(Replace with screenshot URL)*  
+![Customer Retention Dashboard](ScreenShots/Churn_Analysis.png) 
 
 ### **Diversity & Inclusion Dashboard**  
-![Diversity Dashboard](#) *(Replace with screenshot URL)*  
+![Diversity Dashboard](ScreenShots/Diversity_and_Inclusion_pg1.png)
 
 ---
 
