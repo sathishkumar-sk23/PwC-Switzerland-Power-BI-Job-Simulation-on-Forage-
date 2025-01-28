@@ -1,7 +1,3 @@
-Here’s a professional and detailed **GitHub README.md** for your PwC Switzerland Power BI Virtual Internship project:
-
----
-
 # **PwC Switzerland Power BI Virtual Internship (Forage)**  
 
 Welcome to my project repository for the **PwC Switzerland Power BI Virtual Internship**, completed in January 2025. This program provided hands-on experience with Power BI to develop dashboards, analyze data, and generate actionable insights for business decision-making. Below, you'll find an overview of the tasks, methodologies, and outcomes for the project, along with key learnings.
