@@ -87,7 +87,7 @@ Create a dashboard that visualizes key performance indicators (KPIs) related to 
 ## **Screenshots**  
 
 ### **Call Center Trends Dashboard**  
-![Call Center Dashboard](#) *(Replace with screenshot URL)*  
+![Call Center Dashboard](ScreenShots/Call_Centre_Trends.png)
 
 ### **Customer Retention Dashboard**  
 ![Customer Retention Dashboard](#) *(Replace with screenshot URL)*  
